@@ -1,0 +1,41 @@
+author: meta1203
+database: true
+main: me.meta1203.plugins.satoshis.Satoshis
+name: Satoshis
+url: http://www.kruxkraft.com/
+softdepend: [Vault]
+version: '1.3'
+commands:
+  deposit:
+    description: 'Deposit money through Bitcoin address'
+  money:
+    description: 'List your in-game money balance'
+  withdraw:
+    description: 'Withdraw money to a Bitcoin address'
+  transact:
+    description: 'Send in-game money to player'
+  satoshis:
+    description: 'Print testing info'
+  syscheck:
+    description: 'Check Satoshis system health'
+  credit:
+    description: 'Credit in-game money to player'
+  debit:
+    description: 'Debit in-game money from player'
+permissions:
+  satoshis.admin:
+    description: 'Permission for Satoshis /satoshis'
+  satoshis.withdraw:
+    description: 'Permission for Satoshis /withdraw'
+  satoshis.deposit:
+    description: 'Permission for Satoshis /deposit'
+  satoshis.transact:
+    description: 'Permission for Satoshis /transact'
+  satoshis.money:
+    description: 'Permission for Satoshis /money'
+  satoshis.info:
+    description: 'Permission for Satoshis /syscheck'
+  satoshis.credit:
+    description: 'Permission for Satoshis /credit'
+  satoshis.debit:
+    description: 'Permission for Satoshis /debit'
