@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/karlh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dogemc.xyz
+  * I am karlh (https://keybase.io/karlh) on keybase.
+  * I have a public key with fingerprint F106 864D F671 BCC8 9BB1  2186 F12A 9A6C 1568 0690
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01013fcfb93416230c00f189f3589fca85e9ba2cd65cda0f718fffbcdf5b314e63280a",
+            "fingerprint": "f106864df671bcc89bb12186f12a9a6c15680690",
+            "host": "keybase.io",
+            "key_id": "f12a9a6c15680690",
+            "kid": "01013fcfb93416230c00f189f3589fca85e9ba2cd65cda0f718fffbcdf5b314e63280a",
+            "uid": "a7dae24db4b701ebf1c563deea698519",
+            "username": "karlh"
+        },
+        "service": {
+            "hostname": "dogemc.xyz",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467895617,
+    "expire_in": 157680000,
+    "prev": "9511e9e9337a1fbb3454bb0265b37041258a1ea241bfac3a4cd4f26861554ac6",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIrAnicrVJbSBVBGD7HsvSkkSX20I02orKj7exldveUlBeoCLoQlYR6nJmdOa7a
+2dOe1TpaZkUvhURRgWJBBZlRCEFSFJWlJYgPKRFk0c1uFFm9GEXRrNRbj83DDP8/
+3/fN9//zd6eP8wX8t4437mpfmpnv7+s6UuPb0rAuv17AtpkQQvVCFR07aLVJ4264
+yjKFkCACEciMMGzICoCSLBJRZEA3mKzyjSBdpQZGEjGhSkwkMg3ojDFMTKZiGSgU
+ypIuIiEoMCsaoU7MsaIul2VAhDpUTAY1gAnRDYyBBHTIgIQMBAlQoS5CQ+TECjvu
+Mbg5jOI017J5jgfhMXv/wP9n3zVjckgzEZUUEytYEwHFDBAVyialCBq6CgwPGKdO
+FG2jnlfkVFcIu4MCT9VahHpd9cr4c23aEbqN5O5M1HFazLFdm9jVPF/hurGQR3MT
+MQ+3g+LwH4UwtqIm7yAn1FInbtlRIQQ4kriWJwkUqOmGCoEWFOjOmOXQsOUhVI23
+hS/vGVrLJQ0VAGpQQ5Y1BBjGsqIqGIsS5FVrogIkVUeAIkkBmCEiI4WYCpP4VwFV
+VRCBglfT9qgthCRuE0W4ZNyKRJFb41Bh953bJeN9/oBvQnKSN1m+QOqUv/O2NmPi
+r7zy7MGrr1OO1p0baSvb/C2zP3xzcEZgIKNybWbj3fUzey6ezEyZtujt4ebEE5a2
+svdg2uSG0eL7qQvgvrqWzkTuy+bA6r03rt3b+q6+Q9tQfOLn5ZEhUOL/8OLdleQv
+874X5oc6Tl2/uqI33pXjbp8lBMv6Koc/dkbuLpo+1WzJ2t/te5td/PlZaUv/58aJ
+B5YN7Tm2qn1y6aRNA5+SijaPqg+2+m99ndpV+KgNfytof9W2uCfnxqEZ6ZX+0bP7
+nKe9rc+7O1o3bqzOyP5aO9A8+3FLOXk91xl6s+aMdLq8acecLPtK8FJRoZzXJHYO
+ZP3IXb4s9L5jSencAnHS3oXnLwzPf3jgyW980jr8
+=vlAl
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/karlh
+
+==================================================================
